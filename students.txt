@@ -1,0 +1,3 @@
+101|Rahul Kumar|20|Computer Science|87.5
+102|Ananya Sharma|19|Data Science|92.0
+103|Arjun Reddy|21|Information Technology|78.5
